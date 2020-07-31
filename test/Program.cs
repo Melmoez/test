@@ -10,12 +10,9 @@ namespace test
     {
         static void Main(string[] args)
         {
-            int a;
-            if (int.TryParse("1", out int result))
-            {
-                Console.WriteLine(result);
-            }
-            
+            Console.WriteLine("Hellp world");
+            Console.WriteLine("HI");
+
         }
     }
 }
